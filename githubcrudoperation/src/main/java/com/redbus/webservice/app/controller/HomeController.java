@@ -28,6 +28,10 @@ public class HomeController {
 
 	public void m7(){
 	}
+	
+	public void m8() {
+		
+	}
 
 
 }
