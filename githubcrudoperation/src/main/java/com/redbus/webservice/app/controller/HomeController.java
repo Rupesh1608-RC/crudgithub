@@ -41,4 +41,7 @@ public class HomeController {
 
 	public void m10(){
 	}
+
+	public void m11(){
+	}
 }
